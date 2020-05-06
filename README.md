@@ -1,0 +1,2 @@
+# react-eslint-prettier-editorconfig
+ 
